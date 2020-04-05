@@ -1,4 +1,4 @@
-specialities.html    <!DOCTYPE html>
+<!DOCTYPE html>
     <html>
 
         
